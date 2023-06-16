@@ -1,0 +1,21 @@
+pedido1 =(123,"2 bolinhos de carne", 10.00)
+pedido2 = ( 467, "um prato de sushi e uma coca", 95.00)
+pedido3 = (247, "carne", 52.00)
+
+print("Detalhes do pedido 1:")
+print("número do pedido:", pedido1[0])
+print(" itens: ", pedido1[1])
+print("preço: ", pedido1[2])
+print()
+
+print("Detalhes do pedido 2:")
+print("número do pedido:", pedido2[0])
+print(" itens:", pedido2[1])
+print("preço:", pedido2[2])
+print()
+
+print("Detalhes do pedido 3:")
+print("número do pedido:", pedido3[0])
+print(" itens: :", pedido3[1])
+print("preço:", pedido3[2])
+print()
